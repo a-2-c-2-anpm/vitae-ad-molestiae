@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@a-2-c-2-anpm/vitae-ad-molestiae",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,18 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/a-2-c-2-anpm/vitae-ad-molestiae.git"
   },
   "dependencies": {
+    "@a-2-c-2-anpm/eligendi-praesentium-hic": "^1.0.0",
+    "@a-2-c-2-anpm/error-dolorem-a": "^1.0.0",
+    "@a-2-c-2-anpm/expedita-recusandae-aut": "^1.0.0",
+    "@a-2-c-2-anpm/fugit-impedit-quae": "^1.0.0",
+    "@a-2-c-2-anpm/laborum-exercitationem-quis": "^1.0.0",
+    "@a-2-c-2-anpm/nam-eaque-occaecati": "^1.0.0",
+    "@a-2-c-2-anpm/neque-iste-eum": "^1.0.0",
+    "@a-2-c-2-anpm/officia-tempore-ipsa": "^1.0.0",
+    "@a-2-c-2-anpm/placeat-suscipit-cumque": "^1.0.0",
+    "@ajhgwdjnpm/quas-mollitia-aspernatur-reprehenderit": "^1.0.0"
   }
 }
